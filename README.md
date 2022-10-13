@@ -4,7 +4,7 @@ Projeto no qual é criado um relógio digital com o horário em tempo real!
 
 ## 📹 Apresentação do projeto
 <div align="center">
-  <img src="" width = "750px">
+  <video src="https://user-images.githubusercontent.com/99294586/195660682-a2f4bd8a-68fe-48d9-8b7d-0e6bf7143450.mp4" >
 </div>
 
 > Acesse o projeto online **[AQUI](https://myclock2.netlify.app/)**
