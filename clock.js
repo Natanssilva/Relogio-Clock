@@ -18,10 +18,10 @@
 
            switch(DayWeek){ 
             case 0:
-                clock.innerHTML = 'Monday'
+                clock.innerHTML = 'Sunday'
                  break
             case 1:
-                clock.innerHTML = 'Sunday'
+                clock.innerHTML = 'Monday'
                  break
             case 2:
                 clock.innerHTML = 'Tuesday'
